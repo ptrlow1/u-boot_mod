@@ -1,5 +1,9 @@
-U-Boot 1.1.4 modification for routers
-==========
+# U-Boot 1.1.4 modification for routers
+
+This project has been archived. 
+The original author of this project has stopped all further development. 
+No further pull requests will ever be accepted, or issues be solved.
+
 
 Ready snapshot/test images
 --------------------------
@@ -35,7 +39,7 @@ Table of contents
 - [License, outdated sources etc.](#license-outdated-sources-etc)
 - [Credits](#credits)
 
-Introduction
+# Introduction
 ------------
 
 In short, this project is a deep modification of **U-Boot 1.1.4** sources, mostly from **TP-Link**, but some code fragments were taken also from **D-Link**, **Netgear**, **ZyXEL** and **Belkin**. All these companies are using SDK from Qualcomm/Atheros which includes modified version of **U-Boot 1.1.4**.
@@ -54,7 +58,7 @@ First version of this modification was introduced on **OpenWrt** forum in [this 
 
 You can find some information about previous versions of this project also on my [blog](http://www.tech-blog.pl), in [this article](http://www.tech-blog.pl/2013/03/29/zmodyfikowany-u-boot-dla-routerow-tp-link-z-atheros-ar9331-z-trybem-aktualizacji-oprogramowania-przez-www-i-konsola-sieciowa-netconsole/). It is in Polish, but [Google Translator](http://translate.google.com/translate?hl=pl&sl=pl&tl=en&u=http%3A%2F%2Fwww.tech-blog.pl%2F2013%2F03%2F29%2Fzmodyfikowany-u-boot-dla-routerow-tp-link-z-atheros-ar9331-z-trybem-aktualizacji-oprogramowania-przez-www-i-konsola-sieciowa-netconsole%2F&sandbox=1) will help you to understand it.
 
-Supported devices
+# Supported devices
 -----------------
 
 Currently supported devices:
