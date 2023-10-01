@@ -1,15 +1,16 @@
 # U-Boot 1.1.4 modification for routers
 
-This project has been archived. 
-The original author of this project has stopped all further development. 
-No further pull requests will ever be accepted, or issues be solved.
+# This project has been archived. No further changes will be made to this repository.
+The original author of this project has **stopped all further development**. 
+No further pull requests will ever be accepted, or issues be resolved.
+In addition, any requests for supporting new devices are **no longer accepted**.
 
 
-Ready snapshot/test images
+# Ready snapshot/test images
 --------------------------
-Starting from 24.09.2016, ready images, built on **Raspberry Pi 3** with **LEDE** toolchain, are available **[on my server](http://projects.dymacz.pl)**.
+~~Starting from 24.09.2016, ready images, built on **Raspberry Pi 3** with **LEDE** toolchain, are available **[on my server](http://projects.dymacz.pl)**.~~
 
-Images are built and uploaded on FTP only when master branch in repository was updated - custom script checks this once per day. On the FTP you will find also toolchain which is used to build images.
+~~Images are built and uploaded on FTP only when master branch in repository was updated - custom script checks this once per day. On the FTP you will find alsohttp://code.google.com/p/wr703n-uboot-with-web-failsafe/ toolchain which is used to build images.~~ UPDATE: Snapshot/test images are **no longer available** from the original author.
 
 Table of contents
 -----------------
